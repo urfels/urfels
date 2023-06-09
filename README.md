@@ -10,7 +10,8 @@ Aktuell bin ich auf der Suche nach neuen beruflichen Herausforderungen, da ich e
 |     1|Flutter und Dart  |
 |     2|Python            |
 |     3|SQL               |
-|     4|Kotlin            |
+|     4|JavaScript        |
+|     5|Kotlin            |
 
 
 
