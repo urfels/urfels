@@ -2,8 +2,9 @@
 
 ## About me
 
-Hallo, ich bin Jannes und mache ein Ausbildung zum Fachinformatiker für Anwendungsentwicklung.
-Aktuell bin ich auf der Suche nach neuen beruflichen Herausforderungen, da ich ende Juni meine Ausbildung beende.
+In recent years, I have learned a lot as a software developer and I'm excited to continue evolving and growing.
+
+Below, I rank the programming languages that I am proficient in.
 
 | Rank | Sprachen         |
 |-----:|------------------|
@@ -13,7 +14,7 @@ Aktuell bin ich auf der Suche nach neuen beruflichen Herausforderungen, da ich e
 |     4|JavaScript        |
 |     5|Kotlin            |
 
-
+🔜 Ruby on Rails  😃
 
 <!--
 **urfels/urfels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
