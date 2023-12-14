@@ -9,12 +9,12 @@ Below, I rank the programming languages that I am proficient in.
 | Rank | Sprachen         |
 |-----:|------------------|
 |     1|Flutter und Dart  |
-|     2|Python            |
+|     2|Ruby on Rails     |
 |     3|SQL               |
-|     4|JavaScript        |
-|     5|Kotlin            |
+|     4|Python            |
+|     5|JavaScript        |
+|     6|Kotlin            |
 
-🔜 Ruby on Rails  😃
 
 <!--
 **urfels/urfels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
